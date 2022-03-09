@@ -8,9 +8,9 @@
 
 
 - 🔭 Desenvolvedor de projetos pequenos e individuais para empresas de pequeno porte
-- 🌱 Atualmente cursando Analise e Desenvolvimento de Sistemas - Instituto Federal do Paraná
-- 💬 Atraido por desenvolvimento em IOT (Internet Of Things) com ESP32 e ESP8266 para soluções empresariais e domesticas
-- 📫 Alto conhecimendo em Redes de Computadores, tendo experiencia trabalhando por 2 anos com T.I de um provedor de internet fibra óptica e via rádio
+- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná (IFPR)
+- 💬 Fascinado por desenvolvimento em IOT (Internet Of Things) com ESP32 Lora e ESP8266 para soluções empresariais e domésticas
+- 📫 Alto conhecimendo em Redes de Computadores, tendo experiência trabalhando por 2 anos com T.I de um provedor de internet fibra óptica e via rádio
 
 
 <div align="center">
