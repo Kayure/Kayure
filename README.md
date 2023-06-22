@@ -6,11 +6,10 @@
 
 
 
-
-- 🔭 Desenvolvedor de projetos pequenos e individuais para empresas de pequeno porte
-- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná (IFPR)
+- 👩‍💻 Professor Ens. Básico e Tecnológico - Instituto Federal do Paraná (IFPR)
+- 🔭 Desenvolvedor Full-Stack Web e Mobile  - NodeJs e React
 - 💬 Fascinado por desenvolvimento em IOT (Internet Of Things) com ESP32 Lora e ESP8266 para soluções empresariais e domésticas
-- 📫 Alto conhecimendo em Redes de Computadores, tendo experiência trabalhando por 2 anos com T.I de um provedor de internet fibra óptica e via rádio
+- 📫 Experiência com Redes de Computadores, Desenvolvimento de API com Banco de dados Relacional e Desenvolvimento de Aplicativos Mobile
 
 
 <div align="center">
