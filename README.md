@@ -49,7 +49,7 @@ Linguagens & Tecnologias: `MySql`, `C++`, `Fibra Óptica`, `MikroTik`, `Redes`, 
 
 <br/>
 
-**Front-End**
+**Front-End** <br/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -60,19 +60,19 @@ Linguagens & Tecnologias: `MySql`, `C++`, `Fibra Óptica`, `MikroTik`, `Redes`, 
 
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-**Back-End**
+**Back-End** <br/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-**Internet das Coisas**
+**Internet das Coisas** <br/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 
-**Ferramentas de Desenvolvimento**
+**Ferramentas de Desenvolvimento** <br/>
 
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
