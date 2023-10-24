@@ -18,7 +18,7 @@
 
 ## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/355618441_850712736511744_7534907475356996556_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF6vALqwDT6adSwaVh7csh5L6H8AwulfHsvofwDC6V8e9vjGM4l4DdgRwz08zGDD9NHm0Trsin8dyYNdgAuXppx&_nc_ohc=rBKpZO0JmncAX8KpGJG&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfDSbVI3MJSG7wGDXnH_a6jUQoxSKILgg8XPT_fOZu8tRg&oe=6512B4EE"/>](https://ifpr.edu.br/paranagua/)
+[<img align="left" height="94px" width="94px" alt="IFPR" src="[https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/355618441_850712736511744_7534907475356996556_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF6vALqwDT6adSwaVh7csh5L6H8AwulfHsvofwDC6V8e9vjGM4l4DdgRwz08zGDD9NHm0Trsin8dyYNdgAuXppx&_nc_ohc=rBKpZO0JmncAX8KpGJG&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfDSbVI3MJSG7wGDXnH_a6jUQoxSKILgg8XPT_fOZu8tRg&oe=6512B4EE](https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/355618441_850712736511744_7534907475356996556_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Dgtv7e9T58AAX-phKSe&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfD45eQn8eUdFdUNh8kcYWjTKKdmX0kAOC7OUhgG8Sgegw&oe=653C3C2E)"/>](https://ifpr.edu.br/paranagua/)
 
 _Professor Substituto Ensino Básico e Tecnológico_ \
 [_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Contrato \
@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `React Native`, `Node`, `TypeScript`, `MySql` \
 Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://www.netflytelecom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Netfly" src="[https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4](https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=H6e5xIgWkuMAX_JGs3O&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBAXtc2Elv-uwtwi5X1_fBjs84MkjjCK2o8myQfAQD96Q&oe=653CE004)"/>](https://www.netflytelecom.com.br/)
 
 _Suporte Técnico e Supervisor_ \
 [_Netfly_](https://www.netflytelecom.com.br/) • Full-time CLT \
