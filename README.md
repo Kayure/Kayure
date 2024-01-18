@@ -18,7 +18,7 @@
 
 ## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="IFPR" src="https://www.facebook.com/photo/?fbid=462025912635961&set=a.462025862635966"/>](https://ifpr.edu.br/paranagua/)
+[<img align="left" height="94px" width="94px" alt="IFPR" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/307325987_462025902635962_2480608103727149383_n.png?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=fCOADIYxKUoAX9si1kV&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfCtHOblrAcgyBrxbgxtpjstWFJDX_WyVDy6uqgjx9OblA&oe=65AEB6FA"/>](https://ifpr.edu.br/paranagua/)
 
 _Professor Substituto Ensino Básico e Tecnológico_ \
 [_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Contrato \
