@@ -31,7 +31,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 _Full-Stack Developer (Jr)_ \
 [_Singlec_](https://singlec.com.br/) • Contrato \
 Linguagens & Tecnologias: `React Native`, `Node`, `TypeScript`, `MySql` \
-Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
+Projetos em destaque: [QualitySin](https://singlec.com.br)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Netfly" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QAMkIaPqHx8Ab7OZwv9&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBwV-qPC6cBxBrcVMnubAHYg1CjGmtHYwkNSRlt0VzD8w&oe=66204AC4"/>](https://www.netflytelecom.com.br/)
