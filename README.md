@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `React Native`, `Node`, `TypeScript`, `MySql` \
 Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Netfly" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=x93uMPBwppcAX_iYqOM&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfCsCNqtDf0bpQrnLBMAoDgI81hqvNpX4y7yAe4JxbTWdQ&oe=65AD9844"/>](https://www.netflytelecom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Netfly" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/307325987_462025902635962_2480608103727149383_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NLlmWhl6eUkAb4ODf-v&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBSgu8mugSKKLPTnsvAw7CJr8tiHD7SQmVFKSQndx506Q&oe=6620503A"/>](https://www.netflytelecom.com.br/)
 
 _Suporte Técnico e Supervisor_ \
 [_Netfly_](https://www.netflytelecom.com.br/) • Full-time CLT \
