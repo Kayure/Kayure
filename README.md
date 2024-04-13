@@ -18,7 +18,7 @@
 
 ## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="IFPR" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/307325987_462025902635962_2480608103727149383_n.png?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=fCOADIYxKUoAX9si1kV&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfCtHOblrAcgyBrxbgxtpjstWFJDX_WyVDy6uqgjx9OblA&oe=65AEB6FA"/>](https://ifpr.edu.br/paranagua/)
+[<img align="left" height="94px" width="94px" alt="IFPR" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/307325987_462025902635962_2480608103727149383_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NLlmWhl6eUkAb4ODf-v&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBSgu8mugSKKLPTnsvAw7CJr8tiHD7SQmVFKSQndx506Q&oe=6620503A"/>](https://ifpr.edu.br/paranagua/)
 
 _Professor Substituto Ensino Básico e Tecnológico_ \
 [_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Contrato \
@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `React Native`, `Node`, `TypeScript`, `MySql` \
 Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Netfly" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/307325987_462025902635962_2480608103727149383_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NLlmWhl6eUkAb4ODf-v&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBSgu8mugSKKLPTnsvAw7CJr8tiHD7SQmVFKSQndx506Q&oe=6620503A"/>](https://www.netflytelecom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Netfly" src="https://static.wixstatic.com/media/cbe028_56cab3c736434a9494115cd3865ba819~mv2.png/v1/fill/w_175,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20NETFLY%20CERTO.png"/>](https://www.netflytelecom.com.br/)
 
 _Suporte Técnico e Supervisor_ \
 [_Netfly_](https://www.netflytelecom.com.br/) • Full-time CLT \
